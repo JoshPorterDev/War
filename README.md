@@ -8,3 +8,4 @@ CIS 120 fall 2019
 * Calling functions with keyword arguments
 * conditional checks
 
+[![Run on Repl.it](https://repl.it/badge/github/JoshPorterDev/War)](https://repl.it/github/JoshPorterDev/War)
